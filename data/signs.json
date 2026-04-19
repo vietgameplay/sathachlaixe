@@ -1,0 +1,1710 @@
+[
+  {
+    "type": 1,
+    "code": "P.101",
+    "title": "Đường cấm",
+    "more": "Biển báo đường cấm tất cả các loại phương tiện tham gia giao thông đi lại cả hai hướng, trừ xe ưu tiên theo luật định.",
+    "image": "P101"
+  },
+  {
+    "type": 1,
+    "code": "P.102",
+    "title": "Cấm đi ngược chiều",
+    "more": "Biển báo đường cấm tất cả các loại phương tiện tham gia giao thông đi vào theo chiều đặt biển.",
+    "image": "P102"
+  },
+  {
+    "type": 1,
+    "code": "P.103a",
+    "title": "Cấm ô tô",
+    "more": "Biển báo đường cấm tất cả các loại xe cơ giới kể cả mô tô 3 bánh có thùng đi qua, trừ xe mô tô 2 bánh, xe gắn máy (kể cả xe máy điện) và các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "image": "P103a"
+  },
+  {
+    "type": 1,
+    "code": "P.103b",
+    "title": "Cấm ô tô rẽ phải",
+    "more": "Biển báo đường cấm xe ô tô rẽ phải ( kể cả xe mô tô ba bánh), trừ các xe được ưu tiên theo Luật Giao thông đường bộ. Biển không có giá trị cấm quay đầu xe.",
+    "image": "P103b"
+  },
+  {
+    "type": 1,
+    "code": "P.103c",
+    "title": "Cấm ô tô rẽ trái",
+    "more": "Biển báo đường cấm xe ô tô rẽ trái ( kể cả xe mô tô ba bánh), trừ các xe được ưu tiên theo Luật Giao thông đường bộ. Biển không có giá trị cấm quay đầu xe.",
+    "image": "P103c"
+  },
+  {
+    "type": 1,
+    "code": "P.104",
+    "title": "Cấm mô tô",
+    "more": "Biển báo đường cấm tất cả các loại mô tô đi qua, trừ các loại xe mô tô được ưu tiên theo Luật Giao thông đường bộ.",
+    "image": "P104"
+  },
+  {
+    "type": 1,
+    "code": "P.105",
+    "title": "Cấm ô tô và mô tô",
+    "more": "Biển báo đường cấm tất cả xe cơ giới và xe mô tô đi qua trừ xe gắn máy và xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "image": "P105"
+  },
+  {
+    "type": 1,
+    "code": "P.106a",
+    "title": "Cấm ô tô tải",
+    "more": "Biển báo đường cấm tất cả các loại xe ô tô tải trừ các xe được ưu tiên theo Luật Giao thông đường bộ, hiệu lực cấm đối với cả máy kéo và xe máy chuyên dùng.",
+    "image": "P106a"
+  },
+  {
+    "type": 1,
+    "code": "P.106b",
+    "title": "Cấm ô tô tải theo trọng lượng",
+    "more": "Trọng lượng được tính theo tấn ghi trên biển",
+    "image": "P106b"
+  },
+  {
+    "type": 1,
+    "code": "P.106c",
+    "title": "Cấm ô tô tải chở hàng nguy hiểm",
+    "more": "Biển báo P.106c đường cấm tất cả các loại xe ô tô tải chở hàng nguy hiểm.",
+    "image": "P106c"
+  },
+  {
+    "type": 1,
+    "code": "P.107",
+    "title": "Cấm ô tô khách và ô tô tải",
+    "more": "Biển báo đường cấm xe ô tô khách và các loại xe ô tô tải, kể cả máy kéo và xe máy chuyên dùng đi qua, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "image": "P107"
+  },
+  {
+    "type": 1,
+    "code": "P.107a",
+    "title": "Cấm ô tô khách",
+    "more": "Biển báo đường cấm ôtô chở khách đi qua trừ các xe ưu tiên theo quy định. Biển này không cấm xe buýt.",
+    "image": "P107a"
+  },
+  {
+    "type": 1,
+    "code": "P.107b",
+    "title": "Cấm xe taxi",
+    "more": "Biển báo đường cấm ôtô taxi đi lại. Trường hợp cấm xe ôtô taxi theo giờ thì đặt biển phụ ghi giờ cấm.",
+    "image": "P107b"
+  },
+  {
+    "type": 1,
+    "code": "P.108",
+    "title": "Cấm ôtô kéo rơ moóc",
+    "more": "Biển báo đường cấm tất cả các loại xe cơ giới kéo theo rơ moóc kể cả xe mô tô, máy kéo, xe ô tô khách kéo theo rơ moóc đi qua, trừ loại xe ô tô sơ mi rơ moóc và các xe được ưu tiên theo Luật Giao thông đường bộ (có kéo theo rơ moóc).",
+    "image": "P108"
+  },
+  {
+    "type": 1,
+    "code": "P.108a",
+    "title": "Cấm xe sơ-mi rơ-moóc",
+    "more": "Biển báo đường cấm các loại xe sơ-mi-rơ-moóc và các xe kéo rơ- moóc trừ các xe được ưu tiên (có dạng xe sơ-mi-rơ-moóc hoặc có kéo theo rơ-moóc) theo quy định.",
+    "image": "P108a"
+  },
+  {
+    "type": 1,
+    "code": "P.109",
+    "title": "Cấm máy kéo",
+    "more": "Biển báo đường cấm tất cả các loại máy kéo, kể cả máy kéo bánh hơi và bánh xích đi qua.",
+    "image": "P109"
+  },
+  {
+    "type": 1,
+    "code": "P.110a",
+    "title": "Cấm xe đạp",
+    "more": "Biển báo đường cấm xe đạp đi qua. Biển không có giá trị cấm những người dắt xe đạp.",
+    "image": "P110a"
+  },
+  {
+    "type": 1,
+    "code": "P.110b",
+    "title": "Cấm xe đạp thồ",
+    "more": "Biển báo đường cấm xe đạp thồ đi qua. Biển không có giá trị cấm người dắt loại xe này.",
+    "image": "P110b"
+  },
+  {
+    "type": 1,
+    "code": "P.111a",
+    "title": "Cấm xe gắn máy",
+    "more": "Biển báo đường cấm xe gắn máy đi qua. Biển không có giá trị cấm đối với xe đạp.",
+    "image": "P111a"
+  },
+  {
+    "type": 1,
+    "code": "P.111b",
+    "title": "Cấm xe ba bánh loại có động cơ(xe lam)",
+    "more": "Biển báo đường cấm xe ba bánh loại có động cơ như xe lam, xe xích lô máy, xe lôi máy, v.v..",
+    "image": "P111b"
+  },
+  {
+    "type": 1,
+    "code": "P.111c",
+    "title": "Cấm xe ba bánh loại có động cơ(xe lôi máy)",
+    "more": "Biển báo đường cấm xe ba bánh loại có động cơ như xe lam, xe xích lô máy, xe lôi máy, v.v..",
+    "image": "P111c"
+  },
+  {
+    "type": 1,
+    "code": "P.111d",
+    "title": "Cấm xe ba bánh loại không có động cơ",
+    "more": "Biển báo đường cấm xe ba bánh loại không có động cơ như xe xích lô, xe lôi đạp, v.v...",
+    "image": "P111d"
+  },
+  {
+    "type": 1,
+    "code": "P.112",
+    "title": "Cấm người đi bộ",
+    "more": "Biển báo đường cấm người đi bộ qua lại.",
+    "image": "P112"
+  },
+  {
+    "type": 1,
+    "code": "P.113",
+    "title": "Cấm xe người kéo, đẩy",
+    "more": "Biển báo đường cấm xe người kéo đẩy đi qua. Biển không có giá trị cấm những xe nôi của trẻ em và phương tiện chuyên dùng để đi lại của những người khuyết tật.",
+    "image": "P113"
+  },
+  {
+    "type": 1,
+    "code": "P.114",
+    "title": "Cấm xe súc vật kéo",
+    "more": "Biển báo đường cấm súc vật vận tải hàng hóa hoặc hành khách dù kéo xe hay chở trên lưng đi qua.",
+    "image": "P114"
+  },
+  {
+    "type": 1,
+    "code": "P.115",
+    "title": "Hạn chế trọng lượng xe",
+    "more": "Biển báo đường cấm các loại phương tiện giao thông đường bộ kể cả các xe được ưu tiên theo Luật Giao thông đường bộ có trọng lượng toàn bộ (cả xe và hàng) vượt quá trị số ghi trên biển tính bằng tấn đi qua.",
+    "image": "P115"
+  },
+  {
+    "type": 1,
+    "code": "P.116",
+    "title": "Hạn chế trọng lượng trên trục xe",
+    "more": "Biển báo đường cấm các loại phương tiện giao thông đường bộ, kể cả các xe được ưu tiên theo Luật Giao thông đường bộ có trọng lượng toàn bộ (cả xe và hàng) phân bố trên một trục bất kỳ của xe vượt quá trị số ghi trên biển tính bằng tấn đi qua.",
+    "image": "P116"
+  },
+  {
+    "type": 1,
+    "code": "P.117",
+    "title": "Hạn chế chiều cao",
+    "more": "Biển có hiệu lực cấm các loại phương tiện giao thông đường bộ đi qua, kể cả các xe được ưu tiên theo Luật Giao thông đường bộ có chiều cao (tính đến điểm cao nhất cả xe và hàng hóa) vượt quá trị số ghi trên biển tính bằng mét đi qua.",
+    "image": "P117"
+  },
+  {
+    "type": 1,
+    "code": "P.118",
+    "title": "Hạn chế chiều ngang",
+    "more": "Biển có hiệu lực cấm các loại phương tiện giao thông đường bộ kể cả các xe được ưu tiên theo Luật Giao thông đường bộ có chiều ngang (cả xe và hàng hóa) vượt quá trị số ghi trên biển tính bằng mét đi qua.",
+    "image": "P118"
+  },
+  {
+    "type": 1,
+    "code": "P.119",
+    "title": "Hạn chế chiều dài ô tô",
+    "more": "Biển báo đường cấm các loại xe (cơ giới và thô sơ), kể cả các xe được ưu tiên theo Luật Giao thông đường bộ, có độ dài toàn bộ (cả xe và hàng) vượt quá trị số ghi trên biển tính bằng mét đi qua.",
+    "image": "P119"
+  },
+  {
+    "type": 1,
+    "code": "P.120",
+    "title": "Hạn chế chiều dài ô tô kéo moóc",
+    "more": "Biển báo đường cấm các loại phương tiện giao thông đường bộ kéo theo rơ moóc kể cả ô tô sơ mi rơ moóc và các xe được ưu tiên theo Luật Giao thông đường bộ kéo theo rơ moóc có độ dài toàn bộ (cả xe, rơ moóc và hàng) vượt quá trị số ghi trên biển đi qua.",
+    "image": "P120"
+  },
+  {
+    "type": 1,
+    "code": "P.121",
+    "title": "Cự ly tối thiểu giữa hai xe",
+    "more": "Biển báo xe ô tô phải đi cách nhau một khoảng tối thiểu. Biển có hiệu lực cấm các xe ô tô không được đi cách nhau với cự ly nhỏ hơn trị số ghi trên biển tính bằng mét, kể cả các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "image": "P121"
+  },
+  {
+    "type": 1,
+    "code": "P.123a",
+    "title": "Cấm rẽ trái",
+    "more": "Biển báo đường cấm các loại phương tiện giao thông đường bộ (xe cơ giới và xe thô sơ) rẽ trái, trừ các xe được ưu tiên theo Luật Giao thông đường bộ. Biển không có giá trị cấm quay đầu xe.",
+    "image": "P123a"
+  },
+  {
+    "type": 1,
+    "code": "P.123b",
+    "title": "Cấm rẽ phải",
+    "more": "Biển báo đường cấm các loại phương tiện giao thông đường bộ (xe cơ giới và xe thô sơ) rẽ phải, trừ các xe được ưu tiên theo Luật Giao thông đường bộ. Biển không có giá trị cấm quay đầu xe.",
+    "image": "P123b"
+  },
+  {
+    "type": 1,
+    "code": "P.124a",
+    "title": "Cấm quay đầu xe",
+    "more": "Biển báo đường cấm các loại phương tiện giao thông đường bộ quay đầu xe theo kiểu chữ U, trừ các xe được ưu tiên theo Luật Giao thông đường bộ. Biển không có giá trị cấm rẽ trái để sang hướng đường khác.",
+    "image": "P124a"
+  },
+  {
+    "type": 1,
+    "code": "P.124b",
+    "title": "Cấm ô tô quay đầu",
+    "more": "Biển báo đường cấm xe ô tô và xe mô tô 3 bánh quay đầu xe theo kiểu chữ U, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "image": "P124b"
+  },
+  {
+    "type": 1,
+    "code": "P.124c",
+    "title": "Cấm rẽ trái và quay đầu xe",
+    "more": "Biển báo cấm các loại xe rẽ trái đồng thời cấm quay đầu, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "image": "P124c"
+  },
+  {
+    "type": 1,
+    "code": "P.124d",
+    "title": "Cấm rẽ phải và quay đầu xe",
+    "more": "Biển báo cấm các loại xe rẽ phải đồng thời cấm quay đầu, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "image": "P124d"
+  },
+  {
+    "type": 1,
+    "code": "P.124e",
+    "title": "Cấm ô tô rẽ trái và quay xe",
+    "more": "Biển báo cấm xe ôtô rẽ trái và đồng thời cấm quay đầu phải, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "image": "P124e"
+  },
+  {
+    "type": 1,
+    "code": "P.124f",
+    "title": "Cấm ô tô rẽ phải và quay xe",
+    "more": "Biển báo cấm xe ôtô rẽ phải và đồng thời cấm quay đầu phải, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "image": "P124f"
+  },
+  {
+    "type": 1,
+    "code": "P.125",
+    "title": "Cấm vượt",
+    "more": "Biển có hiệu lực cấm tất cả các loại xe cơ giới vượt nhau, kể cả các xe được ưu tiên theo Luật Giao thông đường bộ. được phép vượt xe mô tô 2 bánh, xe gắn máy.Biển hết hiệu lực cấm khi có biển số DP.133 “Hết cấm vượt” hoặc đến chỗ có biển số DP.135 “Hết tất cả các lệnh cấm” nếu đồng thời có nhiều biển cấm khác hết tác dụng.",
+    "image": "P125"
+  },
+  {
+    "type": 1,
+    "code": "P.126",
+    "title": "Cấm ôtô tải vượt",
+    "more": "Biển có hiệu lực cấm các loại ôtô tải có khối lượng chuyên chở (theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ) lớn hơn 3.500 kg (3,5 tấn) kể cả các xe được ưu tiên theo quy định vượt xe cơ giới khác. được phép vượt xe máy 2 bánh, xe gắn máy. Biển không có giá trị cấm các loại xe cơ giới khác vượt nhau và vượt xe ô tô tải.",
+    "image": "P126"
+  },
+  {
+    "type": 1,
+    "code": "P.127",
+    "title": "Tốc độ tối đa cho phép",
+    "more": "Biển có hiệu lực cấm tất cả các loại xe cơ giới đường bộ chạy với tốc độ tối đa vượt quá trị số ghi trên biển (tính bằng km/h), trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "image": "P127"
+  },
+  {
+    "type": 1,
+    "code": "P.127a",
+    "title": "Tốc độ tối đa cho phép về ban đêm",
+    "more": "Biển có hiệu lực cấm tất cả các loại xe cơ giới đường bộ chạy ban đêm với tốc độ tối đa vượt quá trị số ghi trên biển (tính bằng km/h), trừ một số trường hợp ưu tiên được quy định.",
+    "image": "P127a"
+  },
+  {
+    "type": 1,
+    "code": "P.127b",
+    "title": "Tốc độ tối đa trên từng làn đường",
+    "more": "Biển ghép tốc độ tối đa cho phép trên từng làn đường",
+    "image": "P127b"
+  },
+  {
+    "type": 1,
+    "code": "P.127c",
+    "title": "Tốc độ tối đa phương tiện trên từng làn đường",
+    "more": "Biển ghép tốc độ tối đa cho phép theo phương tiện, trên từng làn đường",
+    "image": "P127c"
+  },
+  {
+    "type": 1,
+    "code": "P.127d",
+    "title": "Biển hết hạn chế tốc độ tối đa",
+    "more": "Biển hết hạn chế tốc độ tối đa cho phép theo biển ghép",
+    "image": "P127d"
+  },
+  {
+    "type": 1,
+    "code": "P.128",
+    "title": "Cấm bóp còi",
+    "more": "Biển báo cấm các loại xe cơ giới sử dụng còi.",
+    "image": "P128"
+  },
+  {
+    "type": 1,
+    "code": "P.129",
+    "title": "Kiểm tra",
+    "more": "Biển báo nơi đặt trạm kiểm tra, các loại phương tiện vận tải qua đó phải dừng lại để làm thủ tục kiểm tra, kiểm soát theo quy định.",
+    "image": "P129"
+  },
+  {
+    "type": 1,
+    "code": "P.130",
+    "title": "Cấm dừng và đỗ xe",
+    "more": "Biển có hiệu lực cấm các loại xe cơ giới đường bộ dừng và đỗ lại ở phía đường có đặt biển,",
+    "image": "P130"
+  },
+  {
+    "type": 1,
+    "code": "P.131a",
+    "title": "Cấm đỗ xe",
+    "more": "Biển số 131a có hiệu lực cấm các loại xe cơ giới đỗ ở phía đường có đặt biển vào bất kể ngày nào.",
+    "image": "P131a"
+  },
+  {
+    "type": 1,
+    "code": "P.131b",
+    "title": "Cấm đỗ xe ngày lẻ",
+    "more": "Biển có hiệu lực cấm các loại xe cơ giới đỗ ở phía đường có đặt biển vào những ngày lẻ.",
+    "image": "P131b"
+  },
+  {
+    "type": 1,
+    "code": "P.131c",
+    "title": "Cấm đỗ xe ngày chẵn",
+    "more": "Biển có hiệu lực cấm các loại xe cơ giới đỗ ở phía đường có đặt biển vào những ngày chẵn.",
+    "image": "P131c"
+  },
+  {
+    "type": 1,
+    "code": "P.132",
+    "title": "Nhường cho xe ngược chiều qua đường hẹp",
+    "more": "Biển báo cho các loại phương tiện giao thông đường bộ (cơ giới và thô sơ), kể cả các xe được ưu tiên theo Luật Giao thông đường bộ đi theo chiều nhìn thấy biển phải nhường đường cho các loại xe cơ giới đi theo chiều ngược lại khi đi qua các đoạn đường và cầu hẹp.",
+    "image": "P132"
+  },
+  {
+    "type": 1,
+    "code": "DP.133",
+    "title": "Hết cấm vượt",
+    "more": "Biển báo cho người lái xe biết hiệu lực của biển số P.125 “Cấm vượt” và biển số P.126 “Cấm ô tô tải vượt” hết tác dụng.",
+    "image": "DP133"
+  },
+  {
+    "type": 1,
+    "code": "DP.134",
+    "title": "Hết hạn chế tốc độ tối đa",
+    "more": "Biển báo cho người lái xe biết hiệu lực của biển số P.127 “Hạn chế tốc độ tối đa” hết tác dụng. Kể từ biển này, các xe được phép chạy với tốc độ tối đa đã quy định trong Luật Giao thông đường bộ.",
+    "image": "DP134"
+  },
+  {
+    "type": 1,
+    "code": "DP.135",
+    "title": "Hết tất cả các lệnh cấm",
+    "more": "Biển báo cho người lái xe biết hiệu lực của biển số P.121 “Cự ly tối thiểu giữa hai xe” và các biển từ biển số P.125 đến P.131 (a, b, c) được đặt trước đó cùng hết tác dụng.",
+    "image": "DP135"
+  },
+  {
+    "type": 1,
+    "code": "P.136",
+    "title": "Cấm đi thẳng",
+    "more": "Biển được đặt trước nơi đường giao nhau và có hiệu lực cấm tất cả các loại phương tiện giao thông đường bộ (cơ giới và thô sơ) đi thẳng ở nơi đường giao nhau.",
+    "image": "P136"
+  },
+  {
+    "type": 1,
+    "code": "P.137",
+    "title": "Cấm rẽ trái và rẽ phải",
+    "more": "Biển được đặt trước nơi đường giao nhau và có hiệu lực cấm tất cả các loại phương tiện giao thông đường bộ (cơ giới và thô sơ) rẽ trái và rẽ phải ở nơi đường giao nhau.",
+    "image": "P137"
+  },
+  {
+    "type": 1,
+    "code": "P.138",
+    "title": "Cấm đi thẳng và rẽ trái",
+    "more": "Biển được đặt trước nơi đường giao nhau và có hiệu lực cấm tất cả các loại phương tiện giao thông đường bộ (cơ giới và thô sơ) đi thẳng và rẽ trái ở nơi đường giao nhau.",
+    "image": "P138"
+  },
+  {
+    "type": 1,
+    "code": "P.139",
+    "title": "Cấm đi thẳng và rẽ phải",
+    "more": "Biển được đặt trước nơi đường giao nhau và có hiệu lực cấm tất cả các loại phương tiện giao thông đường bộ (cơ giới và thô sơ) đi thẳng và rẽ phải ở nơi đường giao nhau.",
+    "image": "P139"
+  },
+  {
+    "type": 1,
+    "code": "P.140",
+    "title": "Cấm xe công nông và các loại xe tương tự",
+    "more": "Biển báo đường cấm tất cả các loại xe công nông và các loại xe tương tự đi qua.",
+    "image": "P140"
+  },
+  {
+    "type": 1,
+    "code": "S.508a",
+    "title": "Biển cấm theo giờ",
+    "more": "Khi cần báo hiệu cấm các loại phương tiện giao thông đường bộ theo giờ trong thành phố, thị xã phải đặt biển phụ số S508(a,b) dưới biển cấm và có chú thích bằng tiếng Việt, phụ đề tiếng Anh trong biển này.",
+    "image": "S508a"
+  },
+  {
+    "type": 1,
+    "code": "S.508b",
+    "title": "Biển cấm theo giờ",
+    "more": "Khi cần báo hiệu cấm các loại phương tiện giao thông đường bộ theo giờ trong thành phố, thị xã phải đặt biển phụ số S508(a,b) dưới biển cấm và có chú thích bằng tiếng Việt, phụ đề tiếng Anh trong biển này.",
+    "image": "S508b"
+  },
+  {
+    "type": 2,
+    "code": "W.201a",
+    "title": "Chỗ ngoặt nguy hiểm bên trái",
+    "more": "Biển báo đường sắp đến chỗ ngoặt nguy hiểm.",
+    "image": "W201a"
+  },
+  {
+    "type": 2,
+    "code": "W.201b",
+    "title": "Chỗ ngoặt nguy hiểm bên phải",
+    "more": "Biển báo đường sắp đến chỗ ngoặt nguy hiểm.",
+    "image": "W201b"
+  },
+  {
+    "type": 2,
+    "code": "W.201c",
+    "title": "Chỗ ngoặt nguy hiểm có nguy cơ lật bên phải",
+    "more": "Biển số W.201c chỗ ngoặt nguy hiểm có nguy cơ lật xe bên phải khi đường cong vòng sang trái.",
+    "image": "W201c"
+  },
+  {
+    "type": 2,
+    "code": "W.201d",
+    "title": "Chỗ ngoặt nguy hiểm có nguy cơ lật bên trái",
+    "more": "Biển số W.201d chỗ ngoặt nguy hiểm có nguy cơ lật xe bên trái khi đường cong vòng bên phải.",
+    "image": "W201d"
+  },
+  {
+    "type": 2,
+    "code": "W.202a",
+    "title": "Nhiều chỗ ngoặt nguy hiểm liên tiếp",
+    "more": "Biển báo sắp đến đoạn đường ngoặt liên tiếp (có từ 3 đoạn cong ngược chiều nhau) rất nguy hiểm, người lái xe cần giảm tốc độ.",
+    "image": "W202a"
+  },
+  {
+    "type": 2,
+    "code": "W.202b",
+    "title": "Nhiều chỗ ngoặt nguy hiểm liên tiếp",
+    "more": "Biển báo sắp đến đoạn đường ngoặt liên tiếp (có từ 3 đoạn cong ngược chiều nhau) rất nguy hiểm, người lái xe cần giảm tốc độ.",
+    "image": "W202b"
+  },
+  {
+    "type": 2,
+    "code": "W.203a",
+    "title": "Đường bị hẹp cả hai bên",
+    "more": "Biển báo sắp đến chỗ một đoạn đường bị hẹp đột ngột.",
+    "image": "W203a"
+  },
+  {
+    "type": 2,
+    "code": "W.203b",
+    "title": "Đường bị hẹp bên trái",
+    "more": "Biển báo sắp đến chỗ một đoạn đường bị hẹp đột ngột.",
+    "image": "W203b"
+  },
+  {
+    "type": 2,
+    "code": "W.203c",
+    "title": "Đường bị hẹp bên phải",
+    "more": "Biển báo sắp đến chỗ một đoạn đường bị hẹp đột ngột.",
+    "image": "W203c"
+  },
+  {
+    "type": 2,
+    "code": "W.204",
+    "title": "Đường hai chiều",
+    "more": "Biển báo hiệu sắp đến đoạn đường chỉ có một làn đường mà tạm thời (đường do sửa chữa hoặc có trở ngại ở một phía đường mà phải tổ chức đi lại cho phương tiện cả hai chiều trên phía đường còn lại) hay thường xuyên các chiều xe đi và về vẫn phải dùng chung. Khi qua đoạn đường này, lái xe cần thận trọng với xe phía chiều ngược lại.",
+    "image": "W204"
+  },
+  {
+    "type": 2,
+    "code": "W.205a",
+    "title": "Nơi giao nhau của đường đồng cấp",
+    "more": "Biển báo hiệu sắp đến nơi giao nhau của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng.",
+    "image": "W205a"
+  },
+  {
+    "type": 2,
+    "code": "W.205b",
+    "title": "Nơi giao nhau của đường đồng cấp",
+    "more": "Biển báo hiệu sắp đến nơi giao nhau của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng.",
+    "image": "W205b"
+  },
+  {
+    "type": 2,
+    "code": "W.205c",
+    "title": "Nơi giao nhau của đường đồng cấp",
+    "more": "Biển báo hiệu sắp đến nơi giao nhau của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng.",
+    "image": "W205c"
+  },
+  {
+    "type": 2,
+    "code": "W.205d",
+    "title": "Nơi giao nhau của đường đồng cấp",
+    "more": "Biển báo hiệu sắp đến nơi giao nhau của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng.",
+    "image": "W205d"
+  },
+  {
+    "type": 2,
+    "code": "W.205e",
+    "title": "Nơi giao nhau của đường đồng cấp",
+    "more": "Biển báo hiệu sắp đến nơi giao nhau của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng.",
+    "image": "W205e"
+  },
+  {
+    "type": 2,
+    "code": "W.206",
+    "title": "Giao nhau chạy theo vòng xuyến",
+    "more": "Biển báo hiệu nơi giao nhau có bố trí đảo an toàn ở giữa điểm giao, các loại xe qua điểm giao vòng trái phải đi vòng xuyến qua đảo an toàn.",
+    "image": "W206"
+  },
+  {
+    "type": 2,
+    "code": "W.207a",
+    "title": "Giao nhau với đường không ưu tiên",
+    "more": "Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.",
+    "image": "W207a"
+  },
+  {
+    "type": 2,
+    "code": "W.207b",
+    "title": "Giao nhau với đường không ưu tiên",
+    "more": "Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.",
+    "image": "W207b"
+  },
+  {
+    "type": 2,
+    "code": "W.207c",
+    "title": "Giao nhau với đường không ưu tiên",
+    "more": "Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.",
+    "image": "W207c"
+  },
+  {
+    "type": 2,
+    "code": "W.207d",
+    "title": "Giao nhau với đường không ưu tiên",
+    "more": "Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.",
+    "image": "W207d"
+  },
+  {
+    "type": 2,
+    "code": "W.207e",
+    "title": "Giao nhau với đường không ưu tiên",
+    "more": "Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.",
+    "image": "W207e"
+  },
+  {
+    "type": 2,
+    "code": "W.207f",
+    "title": "Giao nhau với đường không ưu tiên",
+    "more": "Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.",
+    "image": "W207f"
+  },
+  {
+    "type": 2,
+    "code": "W.207g",
+    "title": "Giao nhau với đường không ưu tiên",
+    "more": "Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.",
+    "image": "W207g"
+  },
+  {
+    "type": 2,
+    "code": "W.207h",
+    "title": "Giao nhau với đường không ưu tiên",
+    "more": "Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.",
+    "image": "W207h"
+  },
+  {
+    "type": 2,
+    "code": "W.207i",
+    "title": "Giao nhau với đường không ưu tiên",
+    "more": "Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.",
+    "image": "W207i"
+  },
+  {
+    "type": 2,
+    "code": "W.207k",
+    "title": "Giao nhau với đường không ưu tiên",
+    "more": "Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.",
+    "image": "W207k"
+  },
+  {
+    "type": 2,
+    "code": "W.207l",
+    "title": "Giao nhau với đường không ưu tiên",
+    "more": "Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.",
+    "image": "W207l"
+  },
+  {
+    "type": 2,
+    "code": "W.208",
+    "title": "Giao nhau với đường ưu tiên",
+    "more": "Biển báo hiệu đường không đươc ưu tiên sắp đến nơi giao nhau với đường ưu tiên (biển được đặt trên đường không ưu tiên). Các xe đi trên đường có đặt biển này phải nhường đường cho xe đi trên đường ưu tiên khi qua nơi giao nhau, trừ các loại xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "image": "W208"
+  },
+  {
+    "type": 2,
+    "code": "W.209",
+    "title": "Giao nhau có tín hiệu đèn",
+    "more": "Biển báo hiệu nơi giao nhau có sự điều khiển giao thông bằng tín hiệu đèn.",
+    "image": "W209"
+  },
+  {
+    "type": 2,
+    "code": "W.210",
+    "title": "Giao nhau với đường sắt có rào chắn",
+    "more": "Biển báo hiệu sắp đến chỗ giao nhau giữa đường bộ và đường sắt có rào chắn kín hay nửa kín ở cả hai bên đường sắt và có nhân viên ngành đường sắt điều khiển giao thông.",
+    "image": "W210"
+  },
+  {
+    "type": 2,
+    "code": "W.211a",
+    "title": "Giao nhau với đường sắt không có rào chắn",
+    "more": "Biển báo hiệu sắp đến chỗ giao nhau giữa đường bộ và đường sắt hoặc đường bộ và đường sắt có từng đoạn đi chung với nhau không có rào chắn, không có người điều khiển giao thông.",
+    "image": "W211a"
+  },
+  {
+    "type": 2,
+    "code": "W.211b",
+    "title": "Giao nhau với đường tàu điện",
+    "more": "Biển báo hiệu sắp đến chỗ giao nhau cùng mức giữa đường bộ với đường tàu điện.",
+    "image": "W211b"
+  },
+  {
+    "type": 2,
+    "code": "W.212",
+    "title": "Cầu hẹp",
+    "more": "Biển báo hiệu sắp đến cầu hẹp (loại cầu có chiều rộng lòng cầu nhỏ hơn hoặc bằng 4,5 m). Khi qua cầu này, lái xe phải đi chậm, quan sát, nhường nhau và dừng lại chờ ở hai đầu cầu.",
+    "image": "W212"
+  },
+  {
+    "type": 2,
+    "code": "W.213",
+    "title": "Cầu tạm",
+    "more": "Biển báo hiệu sắp đến cầu tạm (loại cầu được làm để sử dụng tạm thời cho xe qua lại). Khi gặp biển này lái xe cần thận trọng và lưu ý sau mỗi trận mưa lũ hoặc khi nước ngập nhất thiết không qua cầu.",
+    "image": "W213"
+  },
+  {
+    "type": 2,
+    "code": "W.214",
+    "title": "Cầu xoay-cầu cất",
+    "more": "Biển báo hiệu sắp đến cầu xoay, cầu cất (loại cầu trong từng thời gian có cắt giao thông đường bộ để cho tàu thuyền qua lại). Các phương tiện đi trên đường bộ phải chờ đợi.",
+    "image": "W214"
+  },
+  {
+    "type": 2,
+    "code": "W.215a",
+    "title": "Kè, vực sâu phía trước",
+    "more": "Biển báo hiệu sắp đến những chỗ có kè, vực sâu hoặc bờ sông áp sát đường, lái xe cần đề phòng tình huống nguy hiểm vượt kè, tụt xuống vực sâu (thường xảy ra ở những chỗ nguy hiểm).",
+    "image": "W215a"
+  },
+  {
+    "type": 2,
+    "code": "W.215b",
+    "title": "Kè, vực sâu bên đường phía bên phải",
+    "more": "Biển báo hiệu sắp đến những chỗ có kè, vực sâu hoặc bờ sông áp sát đường, lái xe cần đề phòng tình huống nguy hiểm vượt kè, tụt xuống vực sâu (thường xảy ra ở những chỗ nguy hiểm).",
+    "image": "W215b"
+  },
+  {
+    "type": 2,
+    "code": "W.215c",
+    "title": "Kè, vực sâu bên đường phía bên trái",
+    "more": "Biển báo hiệu sắp đến những chỗ có kè, vực sâu hoặc bờ sông áp sát đường, lái xe cần đề phòng tình huống nguy hiểm vượt kè, tụt xuống vực sâu (thường xảy ra ở những chỗ nguy hiểm).",
+    "image": "W215c"
+  },
+  {
+    "type": 2,
+    "code": "W.216a",
+    "title": "Đường ngầm",
+    "more": "Biển báo hiệu sắp đến chỗ có đường ngầm (đường tràn), đoạn đường vượt qua sông, suối, khe cạn mà nước có thể tràn qua thường xuyên hoặc khi có lũ.",
+    "image": "W216a"
+  },
+  {
+    "type": 2,
+    "code": "W.216b",
+    "title": "Đường ngầm có nguy cơ lũ quét",
+    "more": "Biển báo hiệu sắp đến chỗ có đường ngầm (đường tràn), đoạn đường vượt qua sông, suối, khe cạn thường xuyên có lũ quét.",
+    "image": "W216b"
+  },
+  {
+    "type": 2,
+    "code": "W.217",
+    "title": "Bến phà",
+    "more": "Biển báo hiệu sắp đến bến phà. Người tham gia giao thông đường bộ phải tuân theo nội quy bến phà.",
+    "image": "W217"
+  },
+  {
+    "type": 2,
+    "code": "W.218",
+    "title": "Cửa chui",
+    "more": "Biển báo hiệu sắp đến chỗ đường có cổng chui, kiểu cổng tò vò chắn ngang như cổng đường hầm, cổng thành, cầu vượt đường bộ dạng cầu vòm...",
+    "image": "W218"
+  },
+  {
+    "type": 2,
+    "code": "W.219",
+    "title": "Dốc xuống nguy hiểm",
+    "more": "Biển báo hiệu sắp đến chỗ dốc xuống nguy hiểm. Trị số ghi trong biển chỉ độ dốc thực tế tính bằng %.",
+    "image": "W219"
+  },
+  {
+    "type": 2,
+    "code": "W.220",
+    "title": "Dốc lên nguy hiểm",
+    "more": "Biển báo hiệu sắp đến chỗ dốc lên nguy hiểm. Trị số ghi trong biển chỉ độ dốc thực tế tính bằng %.",
+    "image": "W220"
+  },
+  {
+    "type": 2,
+    "code": "W.221a",
+    "title": "Đường ổ gà, sống trâu",
+    "more": "",
+    "image": "W221a"
+  },
+  {
+    "type": 2,
+    "code": "W.221b",
+    "title": "Đường có gờ giảm tốc",
+    "more": "Biển số W.221b báo hiệu đoạn “Đường có gờ giảm tốc” để cảnh báo xe đi chậm trước khi qua những điểm có gờ giảm tốc phía trước hoặc những vị trí tiếp giáp với đầu cầu, cống bị lún, võng;",
+    "image": "W221b"
+  },
+  {
+    "type": 2,
+    "code": "W.222a",
+    "title": "Đường trơn",
+    "more": "Biển báo hiệu sắp đến đoạn đường có thể xảy ra trơn trượt đặc biệt là khi thời tiết xấu, mưa phùn. Lái xe cần tránh hãm phanh, tăng ga, sang số đột ngột hoặc cho xe chạy với tốc độ cao.",
+    "image": "W222a"
+  },
+  {
+    "type": 2,
+    "code": "W.222b",
+    "title": "Lề đường nguy hiểm",
+    "more": "",
+    "image": "W222b"
+  },
+  {
+    "type": 2,
+    "code": "W.223a",
+    "title": "Vách núi nguy hiểm",
+    "more": "",
+    "image": "W223a"
+  },
+  {
+    "type": 2,
+    "code": "W.223b",
+    "title": "Vách núi nguy hiểm",
+    "more": "",
+    "image": "W223b"
+  },
+  {
+    "type": 2,
+    "code": "W.224",
+    "title": "Đường người đi bộ cắt ngang",
+    "more": "Biển báo hiệu sắp đến phần đường ngang dành cho người đi bộ. Gặp biển này các lái xe phải nhường đường cho người đi bộ.",
+    "image": "W224"
+  },
+  {
+    "type": 2,
+    "code": "W.225",
+    "title": "Trẻ em",
+    "more": "Biển báo hiệu gần đến đoạn đường thường có trẻ em đi ngang qua hoặc tụ tập trên đường như ở vườn trẻ, trường học, câu lạc bộ đi ra. Chiều dài của đoạn đường này có thể được chỉ dẫn bằng biển phụ số 501 “Phạm vi tác dụng của biển” đặt bên dưới biển chính.",
+    "image": "W225"
+  },
+  {
+    "type": 2,
+    "code": "W.226",
+    "title": "Đường người đi xe đạp cắt ngang",
+    "more": "Biển báo hiệu gần đến chỗ thường có người đi xe đạp từ những đường nhỏ cắt ngang qua hoặc từ đường dành cho xe đạp đi nhập vào đường ô tô.",
+    "image": "W226"
+  },
+  {
+    "type": 2,
+    "code": "W.227",
+    "title": "Công trường",
+    "more": "",
+    "image": "W227"
+  },
+  {
+    "type": 2,
+    "code": "W.228a",
+    "title": "Đá lở",
+    "more": "",
+    "image": "W228a"
+  },
+  {
+    "type": 2,
+    "code": "W.228b",
+    "title": "Đá lở",
+    "more": "",
+    "image": "W228b"
+  },
+  {
+    "type": 2,
+    "code": "W.228c",
+    "title": "Sỏi đá bắn lên",
+    "more": "",
+    "image": "W228c"
+  },
+  {
+    "type": 2,
+    "code": "W.228d",
+    "title": "Nền đường yếu",
+    "more": "",
+    "image": "W228d"
+  },
+  {
+    "type": 2,
+    "code": "W.229",
+    "title": "Dải máy bay lên xuống",
+    "more": "",
+    "image": "W229"
+  },
+  {
+    "type": 2,
+    "code": "W.230",
+    "title": "Gia súc",
+    "more": "",
+    "image": "W230"
+  },
+  {
+    "type": 2,
+    "code": "W.231",
+    "title": "Thú rừng vượt qua đường",
+    "more": "",
+    "image": "W231"
+  },
+  {
+    "type": 2,
+    "code": "W.232",
+    "title": "Gió ngang",
+    "more": "",
+    "image": "W232"
+  },
+  {
+    "type": 2,
+    "code": "W.233",
+    "title": "Nguy hiểm khác",
+    "more": "",
+    "image": "W233"
+  },
+  {
+    "type": 2,
+    "code": "W.234",
+    "title": "Giao nhau với đường hai chiều",
+    "more": "Biển báo hiệu trên đường một chiều sắp đến chỗ giao nhau với đường hai chiều.",
+    "image": "W234"
+  },
+  {
+    "type": 2,
+    "code": "W.235",
+    "title": "Đường đôi",
+    "more": "Biển báo hiệu sắp đến đoạn đường đôi (chiều đi và chiều về phân biệt rõ ràng bằng giải phân cách cứng).",
+    "image": "W235"
+  },
+  {
+    "type": 2,
+    "code": "W.236",
+    "title": "Hết đường đôi",
+    "more": "Biển báo hiệu sắp kết thúc đoạn đường đôi (đoạn đường hết giải phân cách cứng).",
+    "image": "W236"
+  },
+  {
+    "type": 2,
+    "code": "W.237",
+    "title": "Đường có độ vòng lớn",
+    "more": "Biển báo hiệu sắp đến chiếc cầu có độ vồng rất lớn ảnh hưởng tới tầm nhìn.",
+    "image": "W237"
+  },
+  {
+    "type": 2,
+    "code": "W.238",
+    "title": "Đường cao tốc phía trước",
+    "more": "Biển báo hiệu sắp đến đường cao tốc.",
+    "image": "W238"
+  },
+  {
+    "type": 2,
+    "code": "W.239",
+    "title": "Đường cáp điện ở phía trên",
+    "more": "",
+    "image": "W239"
+  },
+  {
+    "type": 2,
+    "code": "W.240",
+    "title": "Đường hầm phía trước",
+    "more": "Biển báo hiệu sắp tới đường hầm (đường chạy hai chiều xe mà chiếu sáng lại không tốt).",
+    "image": "W240"
+  },
+  {
+    "type": 2,
+    "code": "W.241",
+    "title": "Ùn tắc giao thông",
+    "more": "",
+    "image": "W241"
+  },
+  {
+    "type": 2,
+    "code": "W.242a",
+    "title": "Nơi đường sắt giao vuông góc với đường bộ",
+    "more": "Biển W.242a báo hiệu chỗ giao nhau chỉ có một đường sắt cắt ngang đường bộ.",
+    "image": "W242a"
+  },
+  {
+    "type": 2,
+    "code": "W.242b",
+    "title": "Nơi 2 đường sắt giao nhau với đường bộ",
+    "more": "",
+    "image": "W242b"
+  },
+  {
+    "type": 2,
+    "code": "W.243a",
+    "title": "Nơi đường sắt giao không vuông góc với đường bộ",
+    "more": "Đặt cách ray đường sắt gần nhất 50m",
+    "image": "W243a"
+  },
+  {
+    "type": 2,
+    "code": "W.243b",
+    "title": "Nơi đường sắt giao không vuông góc với đường bộ",
+    "more": "Đặt cách ray đường sắt gần nhất 100m",
+    "image": "W243b"
+  },
+  {
+    "type": 2,
+    "code": "W.243c",
+    "title": "Nơi đường sắt giao không vuông góc với đường bộ",
+    "more": "Đặt cách ray đường sắt gần nhất 150m",
+    "image": "W243c"
+  },
+  {
+    "type": 2,
+    "code": "W.244",
+    "title": "Đoạn đường hay xảy ra tai nạn",
+    "more": "Biển báo hiệu đoạn đường phía trước thường xảy ra tai nạn để lái xe cần đặc biệt chú ý.",
+    "image": "W244"
+  },
+  {
+    "type": 2,
+    "code": "W.245a",
+    "title": "Đi chậm",
+    "more": "",
+    "image": "W245a"
+  },
+  {
+    "type": 2,
+    "code": "W.245b",
+    "title": "Đi chậm",
+    "more": "",
+    "image": "W245b"
+  },
+  {
+    "type": 2,
+    "code": "W.246a",
+    "title": "Chú ý chướng ngại vật: Vòng tránh sang hai bên",
+    "more": "Biển báo hiệu phía trước có chướng ngại vật. người lái xe cần giảm tốc độ đi vòng tránh sang hai bên.",
+    "image": "W246a"
+  },
+  {
+    "type": 2,
+    "code": "W.246b",
+    "title": "Chú ý chướng ngại vật: Vòng tránh sang bên trái",
+    "more": "Biển báo hiệu phía trước có chướng ngại vật. người lái xe cần giảm tốc độ đi vòng tránh sang bên trái.",
+    "image": "W246b"
+  },
+  {
+    "type": 2,
+    "code": "W.246c",
+    "title": "Chú ý chướng ngại vật: Vòng tránh sang bên phải",
+    "more": "Biển báo hiệu phía trước có chướng ngại vật. người lái xe cần giảm tốc độ đi vòng tránh sang bên phải.",
+    "image": "W246c"
+  },
+  {
+    "type": 2,
+    "code": "W.247",
+    "title": "Chú ý xe đỗ",
+    "more": "",
+    "image": "W247"
+  },
+  {
+    "type": 3,
+    "code": "R.122",
+    "title": "Dừng lại",
+    "more": "Biển báo hiệu buộc các xe cơ giới và thô sơ kể cả xe được ưu tiên theo quy định phải dừng lại. Chỉ được phép đi nếu có người điều khiển giao thông hoặc đèn cờ cho phép đi. Nếu không thì chỉ được phép đi khi trên đường không còn nguy cơ gây mất an toàn giao thông.",
+    "image": "R122"
+  },
+  {
+    "type": 3,
+    "code": "R.301a",
+    "title": "Các xe chỉ được đi thẳng",
+    "more": "Được đặt trước ngã ba, ngã tư. Các xe chỉ được đi thẳng ở khu vực ngã ba, ngã tư.",
+    "image": "R301a"
+  },
+  {
+    "type": 3,
+    "code": "R.301b",
+    "title": "Các xe chỉ được rẽ phải",
+    "more": "Được đặt sau ngã ba, ngã tư. Các xe chỉ được rẽ phải ở khu vực trước mặt biển.",
+    "image": "R301b"
+  },
+  {
+    "type": 3,
+    "code": "R.301c",
+    "title": "Các xe chỉ được rẽ trái",
+    "more": "Được đặt sau ngã ba, ngã tư. Các xe chỉ được rẽ trái ở khu vực trước mặt biển.",
+    "image": "R301c"
+  },
+  {
+    "type": 3,
+    "code": "R.301d",
+    "title": "Các xe chỉ được rẽ phải",
+    "more": "Được đặt trước ngã ba, ngã tư. Các xe chỉ được rẽ phải ở phạm vi ngã ba, ngã tư đằng sau mặt biển.",
+    "image": "R301d"
+  },
+  {
+    "type": 3,
+    "code": "R.301e",
+    "title": "Các xe chỉ được rẽ trái",
+    "more": "Được đặt trước ngã ba, ngã tư. Các xe chỉ được rẽ trái ở phạm vi ngã ba, ngã tư đằng sau mặt biển.",
+    "image": "R301e"
+  },
+  {
+    "type": 3,
+    "code": "R.301f",
+    "title": "Các xe chỉ được đi thẳng và rẽ phải",
+    "more": "Được đặt trước ngã ba, ngã tư. Các xe chỉ được phép đi thẳng hay rẽ phải ở khu vực sau mặt biển.",
+    "image": "R301f"
+  },
+  {
+    "type": 3,
+    "code": "R.301g",
+    "title": "Các xe chỉ được đi thẳng và rẽ trái",
+    "more": "Được đặt trước ngã ba, ngã tư. Các xe chỉ được phép đi thẳng hay rẽ trái ở khu vực sau mặt biển và được phép quay đầu xe để đi theo hướng ngược lại.",
+    "image": "R301g"
+  },
+  {
+    "type": 3,
+    "code": "R.301h",
+    "title": "Các xe chỉ được rẽ trái và phải",
+    "more": "Được đặt sau ngã ba, ngã tư. Các xe chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở khu vực ngã ba, ngã tư trước mặt biển.",
+    "image": "R301h"
+  },
+  {
+    "type": 3,
+    "code": "R.302a",
+    "title": "Hướng phải đi vòng chướng ngại vật",
+    "more": "",
+    "image": "R302a"
+  },
+  {
+    "type": 3,
+    "code": "R.302b",
+    "title": "Hướng phải đi vòng chướng ngại vật",
+    "more": "",
+    "image": "R302b"
+  },
+  {
+    "type": 3,
+    "code": "R.302c",
+    "title": "Hướng phải đi vòng chướng ngại vật",
+    "more": "",
+    "image": "R302c"
+  },
+  {
+    "type": 3,
+    "code": "R.303",
+    "title": "Nơi giao nhau chạy theo vòng xuyến",
+    "more": "Biển có hiệu lực bắt buộc các xe muốn chuyển hướng phải chạy vòng theo đảo an toàn theo hướng mũi tên tại nơi đường giao nhau (ngã ba, ngã tư).",
+    "image": "R303"
+  },
+  {
+    "type": 3,
+    "code": "R.304",
+    "title": "Đường dành cho xe thô sơ",
+    "more": "Biển báo đường dành cho xe thô sơ (kể cả xe của người khuyết tật) và người đi bộ, bắt buộc phải đi theo đường dành riêng này, cấm phương tiện giao thông cơ giới kể cả các xe được ưu tiên theo Luật Giao thông đường bộ đi vào đường đã đặt biển này, trừ trường hợp đi cắt ngang qua nhưng phải bảo đảm tuyệt đối an toàn cho người đi bộ.",
+    "image": "R304"
+  },
+  {
+    "type": 3,
+    "code": "R.305",
+    "title": "Đường dành cho người đi bộ",
+    "more": "Biển báo đường dành riêng cho người đi bộ.Các phương tiện giao thông đường bộ kể cả xe được ưu tiên theo Luật Giao thông đường bộ không được phép đi vào, trừ trường hợp đi cắt ngang qua, nhưng phải bảo đảm tuyệt đối an toàn cho người đi bộ.",
+    "image": "R305"
+  },
+  {
+    "type": 3,
+    "code": "R.306",
+    "title": "Tốc độ tối thiểu cho phép",
+    "more": "Biển báo tốc độ tối thiểu cho phép. Biển có hiệu lực bắt buộc các loại xe cơ giới chạy với tốc độ không nhỏ hơn trị số ghi trên biển trong điều kiện giao thông thuận lợi và an toàn. Các loại xe có tốc độ tối đa theo quy định của nhà sản xuất không đạt tốc độ tối thiểu đã ghi trên biển không được phép đi vào đường này.",
+    "image": "R306"
+  },
+  {
+    "type": 3,
+    "code": "R.307",
+    "title": "Hết hạn chế tốc độ tối thiểu",
+    "more": "Biển báo hết đoạn đường hạn chế tốc độ tối thiểu. Kể từ biển này các xe được phép chạy chậm hơn trị số ghi trên biển nhưng không được gây cản trở các xe khác.",
+    "image": "R307"
+  },
+  {
+    "type": 3,
+    "code": "R.308a",
+    "title": "Tuyến đường cầu vượt cắt qua",
+    "more": "Biển số R.308a báo cho người lái xe chỉ được đi thẳng hoặc rẽ trái trên cầu vượt.",
+    "image": "R308a"
+  },
+  {
+    "type": 3,
+    "code": "R.308b",
+    "title": "Tuyến đường cầu vượt cắt qua",
+    "more": "Biển số R.308b báo cho người lái xe chỉ được đi thẳng hoặc rẽ phải trên cầu vượt.",
+    "image": "R308b"
+  },
+  {
+    "type": 3,
+    "code": "R.309",
+    "title": "Ấn còi",
+    "more": "Biển báo lệnh cho người lái xe phải bấm còi.",
+    "image": "R309"
+  },
+  {
+    "type": 3,
+    "code": "R.310a",
+    "title": "Hướng đi phải theo cho xe chở hàng nguy hiểm",
+    "more": "",
+    "image": "R310a"
+  },
+  {
+    "type": 3,
+    "code": "R.310b",
+    "title": "Hướng đi phải theo cho xe chở hàng nguy hiểm",
+    "more": "",
+    "image": "R310b"
+  },
+  {
+    "type": 3,
+    "code": "R.310c",
+    "title": "Hướng đi phải theo cho xe chở hàng nguy hiểm",
+    "more": "",
+    "image": "R310c"
+  },
+  {
+    "type": 3,
+    "code": "R.403a",
+    "title": "Đường dành cho ôtô",
+    "more": "Biển báo hiệu bắt đầu đường dành cho các loại ôtô đi lại.",
+    "image": "R403a"
+  },
+  {
+    "type": 3,
+    "code": "R.403b",
+    "title": "Đường dành cho ôtô, xe máy",
+    "more": "Biển báo hiệu bắt đầu đường dành cho các loại ôtô, xe máy (kể cả xe gắn máy).",
+    "image": "R403b"
+  },
+  {
+    "type": 3,
+    "code": "R.404a",
+    "title": "Hết đoạn đường dành cho ôtô",
+    "more": "Đến hết đoạn đường dành cho ôtô đi lại",
+    "image": "R404a"
+  },
+  {
+    "type": 3,
+    "code": "R.404b",
+    "title": "Hết đoạn đường dành cho ôtô và xe máy",
+    "more": "Đến hết đoạn đường dành cho ôtô, xe máy đi lại",
+    "image": "R404b"
+  },
+  {
+    "type": 3,
+    "code": "R.411",
+    "title": "Hướng đi trên mỗi làn đường phải theo",
+    "more": "Biển báo hiệu cho người tham gia giao thông biết số lượng làn đường trên mặt đường và hướng đi trên mỗi làn đường theo vạch kẻ đường.",
+    "image": "R411"
+  },
+  {
+    "type": 3,
+    "code": "R.412a",
+    "title": "Làn đường dành cho xe khách",
+    "more": "Biển báo hiệu làn đường dành riêng cho ôtô khách (kể cả ôtô buýt).",
+    "image": "R412a"
+  },
+  {
+    "type": 3,
+    "code": "R.412b",
+    "title": "Làn đường dành cho xe con",
+    "more": "",
+    "image": "R412b"
+  },
+  {
+    "type": 3,
+    "code": "R.412c",
+    "title": "Làn đường dành cho xe tải",
+    "more": "",
+    "image": "R412c"
+  },
+  {
+    "type": 3,
+    "code": "R.412d",
+    "title": "Làn đường dành cho xe mô tô",
+    "more": "",
+    "image": "R412d"
+  },
+  {
+    "type": 3,
+    "code": "R.412f",
+    "title": "Làn đường dành cho xe ô tô",
+    "more": "",
+    "image": "R412f"
+  },
+  {
+    "type": 3,
+    "code": "R.413i",
+    "title": "Kết thúc làn đường dành cho xe khách",
+    "more": "",
+    "image": "R413i"
+  },
+  {
+    "type": 3,
+    "code": "R.413j",
+    "title": "Kết thúc làn đường dành cho xe con",
+    "more": "",
+    "image": "R413j"
+  },
+  {
+    "type": 3,
+    "code": "R.413k",
+    "title": "Kết thúc làn đường dành cho xe tải",
+    "more": "",
+    "image": "R413k"
+  },
+  {
+    "type": 3,
+    "code": "R.413l",
+    "title": "Kết thúc làn đường dành cho xe mô tô",
+    "more": "",
+    "image": "R413l"
+  },
+  {
+    "type": 3,
+    "code": "R.413n",
+    "title": "Kết thúc làn đường dành cho xe ô tô",
+    "more": "",
+    "image": "R413n"
+  },
+  {
+    "type": 3,
+    "code": "R.415",
+    "title": "Biển gộp làn đường theo phương tiện",
+    "more": "",
+    "image": "R415"
+  },
+  {
+    "type": 3,
+    "code": "R.420",
+    "title": "Bắt đầu khu dân cư",
+    "more": "Biển báo hiệu bắt đầu đoạn đường vào phạm vi khu đông dân cư. Biển có tác dụng báo cho người tham gia giao thông biết phạm vi phải tuân theo những quy định đi đường được áp dụng ở khu đông dân cư.",
+    "image": "R420"
+  },
+  {
+    "type": 3,
+    "code": "R.421",
+    "title": "Hết khu đông dân cư",
+    "more": "Biển báo hiệu hết đoạn đường qua phạm vi khu đông dân cư. Biển có tác dụng báo cho người tham gia giao thông biết phạm vi phải tuân theo những quy định đi đường được áp dụng ở khu đông dân cư đã hết hiệu lực.",
+    "image": "R421"
+  },
+  {
+    "type": 3,
+    "code": "R.E,9a",
+    "title": "Cấm đỗ xe trong khu vực",
+    "more": "Biển báo Cấm đỗ xe trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).",
+    "image": "RE9a"
+  },
+  {
+    "type": 3,
+    "code": "R.E,9b",
+    "title": "Cấm đỗ xe theo giờ trong khu vực",
+    "more": "Biển báo Cấm đỗ xe theo giờ trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).",
+    "image": "RE9b"
+  },
+  {
+    "type": 3,
+    "code": "R.E,9c",
+    "title": "Khu vực đỗ xe",
+    "more": "Biển báo khu vực đỗ xe trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).",
+    "image": "RE9c"
+  },
+  {
+    "type": 3,
+    "code": "R.E,9d",
+    "title": "Hạn chế tốc độ tối đa trong khu vực",
+    "more": "Để quy định hạn chế tốc độ tối đa trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).",
+    "image": "RE9d"
+  },
+  {
+    "type": 3,
+    "code": "R.E,10a",
+    "title": "Hết cấm đỗ xe trong khu vực",
+    "more": "Để báo hiệu hết cấm đỗ xe trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).",
+    "image": "RE10a"
+  },
+  {
+    "type": 3,
+    "code": "R.E,10a",
+    "title": "Hết cấm đỗ xe theo giờ trong khu vực",
+    "more": "Để báo hiệu hết cấm đỗ xe theo giờ trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).",
+    "image": "RE10a"
+  },
+  {
+    "type": 3,
+    "code": "R.E,10c",
+    "title": "Hết khu vực đỗ xe",
+    "more": "Để quy định hết khu vực đỗ xe trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).",
+    "image": "RE10c"
+  },
+  {
+    "type": 3,
+    "code": "R.E,10d",
+    "title": "Hết hạn chế tốc độ tối đa trong khu vực",
+    "more": "Để quy định hết hạn chế tốc độ tối đa trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).",
+    "image": "RE10d"
+  },
+  {
+    "type": 3,
+    "code": "R.E,11a",
+    "title": "Báo hiệu có hầm chui",
+    "more": "Chỉ dẫn đoạn đường qua hầm có áp dụng quy định giao thông riêng.",
+    "image": "RE11a"
+  },
+  {
+    "type": 3,
+    "code": "R.E,11b",
+    "title": "Kết thúc hầm chui",
+    "more": "Chỉ dẫn hết đoạn đường qua hầm, các quy định giao thông riêng không còn áp dụng.",
+    "image": "RE11b"
+  },
+  {
+    "type": 4,
+    "code": "I.401",
+    "title": "Bắt đầu đường ưu tiên",
+    "more": "Biển chỉ dẫn các phương tiện trên trục đường chính được ưu tiên đi trước ở nơi đường giao nhau, các phương tiện từ đường nhánh ra phải dừng lại nhường đường cho phương tiện trên đường chính đi trước, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "image": "I401"
+  },
+  {
+    "type": 4,
+    "code": "I.402",
+    "title": "Hết đường ưu tiên",
+    "more": "Biển chỉ dẫn đã hết đoạn đường ưu tiên. Trên đoạn đường tiếp theo, các xe đi đúng với tốc độ quy định, qua nơi giao nhau ưu tiên bên phải.",
+    "image": "I402"
+  },
+  {
+    "type": 4,
+    "code": "I.405a",
+    "title": "Đường cụt",
+    "more": "",
+    "image": "I405a"
+  },
+  {
+    "type": 4,
+    "code": "I.405b",
+    "title": "Đường cụt",
+    "more": "",
+    "image": "I405b"
+  },
+  {
+    "type": 4,
+    "code": "I.405c",
+    "title": "Đường cụt",
+    "more": "",
+    "image": "I405c"
+  },
+  {
+    "type": 4,
+    "code": "I.406",
+    "title": "Được ưu tiên qua đường hẹp",
+    "more": "Biển chỉ dẫn có quyền được ưu tiên đi trước trên đoạn đường hẹp khi gặp xe đi ngược chiều, trừ trường hợp trên hướng đi ngược chiều có phương tiện đã đi vào phạm vi đường hẹp thì xe đi theo chiều ưu tiên cũng phải nhường đường.",
+    "image": "I406"
+  },
+  {
+    "type": 4,
+    "code": "I.407a",
+    "title": "Đường một chiều",
+    "more": "Chỉ cho phép các loại phương tiệngiao thông đi vào theo chiều mũi tên chỉ, cấm quay đầu ngược lại (trừ các xe được quyền ưu tiên theo Luật Giao thông đường bộ).",
+    "image": "I407a"
+  },
+  {
+    "type": 4,
+    "code": "I.407b",
+    "title": "Đường một chiều",
+    "more": "Chỉ cho phép các loại phương tiệngiao thông đi vào theo chiều mũi tên chỉ, cấm quay đầu ngược lại (trừ các xe được quyền ưu tiên theo Luật Giao thông đường bộ).",
+    "image": "I407b"
+  },
+  {
+    "type": 4,
+    "code": "I.407c",
+    "title": "Đường một chiều",
+    "more": "Chỉ cho phép các loại phương tiệngiao thông đi vào theo chiều mũi tên chỉ, cấm quay đầu ngược lại (trừ các xe được quyền ưu tiên theo Luật Giao thông đường bộ).",
+    "image": "I407c"
+  },
+  {
+    "type": 4,
+    "code": "I.408",
+    "title": "Nơi đỗ xe",
+    "more": "Biển chỉ dẫn những nơi được phép đỗ xe, những bãi đỗ xe, bến xe v.v...",
+    "image": "I408"
+  },
+  {
+    "type": 4,
+    "code": "I.408a",
+    "title": "Nơi đỗ xe một phần trên hè phố",
+    "more": "Biển chỉ dẫn những nơi được phép đỗ xe một phần trên hè phố rộng, phải đặt biển số. Xe phải đổ từ 1⁄2 thân xe trở lên trên hè phố.",
+    "image": "I408a"
+  },
+  {
+    "type": 4,
+    "code": "I.409",
+    "title": "Chỗ quay xe",
+    "more": "Biển chỉ dẫn vị trí được phép quay đầu xe kiểu chữ U. Biển không cấm rẽ trái",
+    "image": "I409"
+  },
+  {
+    "type": 4,
+    "code": "I.410",
+    "title": "Khu vực quay xe",
+    "more": "Biển chỉ dẫn khu vực được phép quay đầu xe kiểu chữ U. Biển không cấm rẽ trái.",
+    "image": "I410"
+  },
+  {
+    "type": 4,
+    "code": "I.413a",
+    "title": "Đường phía trước có làn đường dành cho ô tô khách",
+    "more": "Biển chỉ dẫn đường có làn đường dành riêng cho xe ô tô khách theo chiều ngược lại. Biển được đặt ở ngã ba, ngã tư đầu đường một chiều mà hướng ngược chiều có xe ô tô khách được phép chạy.",
+    "image": "I413a"
+  },
+  {
+    "type": 4,
+    "code": "I.413b",
+    "title": "Rẽ ra đường có làn dành cho xe khách",
+    "more": "Biển chỉ dẫn ở ngã ba, ngã tư rẽ phải hoặc rẽ trái là rẽ ra đường có làn đường dành cho xe ô tô khách.",
+    "image": "I413b"
+  },
+  {
+    "type": 4,
+    "code": "I.413c",
+    "title": "Rẽ ra đường có làn dành cho xe khách",
+    "more": "Biển chỉ dẫn ở ngã ba, ngã tư rẽ phải hoặc rẽ trái là rẽ ra đường có làn đường dành cho xe ô tô khách.",
+    "image": "I413c"
+  },
+  {
+    "type": 4,
+    "code": "I.418",
+    "title": "Lối đi ở những chỗ cấm rẽ",
+    "more": "",
+    "image": "I418"
+  },
+  {
+    "type": 4,
+    "code": "I.423a",
+    "title": "Đường người đi bộ sang ngang",
+    "more": "",
+    "image": "I423a"
+  },
+  {
+    "type": 4,
+    "code": "I.437",
+    "title": "Đường cao tốc",
+    "more": "Để chỉ dẫn bắt đầu đường cao tốc, đặt biển số I.437 “Đường cao tốc”.",
+    "image": "I437"
+  },
+  {
+    "type": 4,
+    "code": "I.444",
+    "title": "Xe kéo moóc",
+    "more": "Biển này đặt trên nóc buồng lái của xe kéo moóc",
+    "image": "I444"
+  },
+  {
+    "type": 4,
+    "code": "I.446",
+    "title": "Nơi đỗ xe dành cho người tàn tật",
+    "more": "Biển chỉ dẫn vị trí thiết bị chuyên dùng cho người tàn tật.",
+    "image": "I446"
+  },
+  {
+    "type": 4,
+    "code": "I.447a",
+    "title": "Cầu vượt liên thông",
+    "more": "Biển được đặt trước khi vào cầu vượt . Biển chỉ dẫn tại cầu vượt liên thông xe có thể đi thẳng hoặc theo chỉ dẫn trên hình vẽ để rẽ trái hay rẽ phải.",
+    "image": "I447a"
+  },
+  {
+    "type": 4,
+    "code": "I.447b",
+    "title": "Cầu vượt liên thông",
+    "more": "Biển được đặt trước khi vào cầu vượt . Biển chỉ dẫn tại cầu vượt liên thông xe có thể đi thẳng hoặc theo chỉ dẫn trên hình vẽ để rẽ trái hay rẽ phải.",
+    "image": "I447b"
+  },
+  {
+    "type": 4,
+    "code": "I.448",
+    "title": "Làn đường cứu nạn hay làn thoát xe khẩn cấp",
+    "more": "Biển chỉ dẫn gồm 3 cặp biển ở các cự ly 2 km, 1 km và 300 m nhằm chỉ dẫn cho người tham gia giao thông biết vị trí và khoảng cách có làn cứu nạn.",
+    "image": "I448"
+  },
+  {
+    "type": 4,
+    "code": "I.449",
+    "title": "Biển tên đường",
+    "more": "Biển báo tên đường cho các tuyến đường đối ngoại.",
+    "image": "I449"
+  },
+  {
+    "type": 5,
+    "code": "S.501",
+    "title": "Phạm vi tác dụng của biển",
+    "more": "Biển được đặt dưới các loại biển báo nguy hiểm, biển báo cấm hoặc hạn chế. Biển thông báo chiều dài đoạn đường nguy hiểm hay đoạn đường phải thi hành lệnh cấm hoặc hạn chế.",
+    "image": "S501"
+  },
+  {
+    "type": 5,
+    "code": "S.502",
+    "title": "Khoảng cách đến đối tượng báo hiệu",
+    "more": "Biển được đặt dưới các loại biển báo nguy hiểm, biển báo cấm hoặc hạn chế, biển hiệu lệnh và biển chỉ dẫn . Biển thông báo khoảng cách thực tế từ vị trí đặt biển đến đối tượng báo hiệu ở phía trước.",
+    "image": "S502"
+  },
+  {
+    "type": 5,
+    "code": "S.503a",
+    "title": "Hướng tác dụng của biển",
+    "more": "",
+    "image": "S503a"
+  },
+  {
+    "type": 5,
+    "code": "S.503b",
+    "title": "Hướng tác dụng của biển",
+    "more": "",
+    "image": "S503b"
+  },
+  {
+    "type": 5,
+    "code": "S.503c",
+    "title": "Hướng tác dụng của biển",
+    "more": "",
+    "image": "S503c"
+  },
+  {
+    "type": 5,
+    "code": "S.503d",
+    "title": "Hướng tác dụng của biển",
+    "more": "",
+    "image": "S503d"
+  },
+  {
+    "type": 5,
+    "code": "S.503e",
+    "title": "Hướng tác dụng của biển",
+    "more": "",
+    "image": "S503e"
+  },
+  {
+    "type": 5,
+    "code": "S.503f",
+    "title": "Hướng tác dụng của biển",
+    "more": "",
+    "image": "S503f"
+  },
+  {
+    "type": 5,
+    "code": "S.504",
+    "title": "Làn đường",
+    "more": "",
+    "image": "S504"
+  },
+  {
+    "type": 5,
+    "code": "S.506a",
+    "title": "Hướng đường ưu tiên",
+    "more": "",
+    "image": "S506a"
+  },
+  {
+    "type": 5,
+    "code": "S.506b",
+    "title": "Hướng đường ưu tiên",
+    "more": "",
+    "image": "S506b"
+  },
+  {
+    "type": 6,
+    "code": "G.11",
+    "title": "Vạch phân chia hai chiều xe chạy (vạch tim đường), dạng vạch đơn, đứt nét",
+    "more": "Áp dụng: dùng để phân chia hai chiều xe chạy ngược chiều nhau ở những đoạn đường có từ 2 làn xe trở lên, không có dải phân cách giữa. Xe được phép cắt qua để sử dụng làn ngược chiều từ cả hai phía.",
+    "image": "G11"
+  },
+  {
+    "type": 6,
+    "code": "G.12",
+    "title": "Vạch phân chia hai chiều xe chạy (vạch tim đường), dạng vạch đơn, nét liền",
+    "more": "Áp dụng: dùng để phân chia hai chiều xe chạy cho đường có 2 hoặc 3 làn xe, không có dải phân cách giữa; xe không được lấn làn, không được đè lên vạch.",
+    "image": "G12"
+  },
+  {
+    "type": 6,
+    "code": "G.13",
+    "title": "Vạch phân chia hai chiều xe chạy ngược chiều (vạch tim đường), dạng vạch đôi, nét liền",
+    "more": "Dùng để phân chia hai chiều xe chạy cho đường có từ 4 làn xe trở lên, không có dải phân cách giữa, xe không được lấn làn, không được đè lên vạch. - Trường hợp các đường có 2 hoặc 3 làn xe, dùng để nhấn mạnh sự nguy hiểm.",
+    "image": "G13"
+  },
+  {
+    "type": 6,
+    "code": "G.14",
+    "title": "Vạch phân chia hai chiều xe chạy, dạng vạch đôi gồm một vạch nét liền, một vạch nét đứt",
+    "more": "",
+    "image": "G14"
+  },
+  {
+    "type": 6,
+    "code": "G.15",
+    "title": "Vạch xác định ranh giới làn đường có thể thay đổi hướng xe chạy",
+    "more": "",
+    "image": "G15"
+  },
+  {
+    "type": 6,
+    "code": "G.21",
+    "title": "Vạch phân chia các làn xe cùng chiều, dạng vạch đơn, đứt nét",
+    "more": "",
+    "image": "G21"
+  },
+  {
+    "type": 6,
+    "code": "G.22",
+    "title": "Vạch phân chia các làn xe cùng chiều, dạng vạch đơn, liền nét.",
+    "more": "",
+    "image": "G22"
+  },
+  {
+    "type": 6,
+    "code": "G.76",
+    "title": "Vạch chỉ dẫn sắp đến chỗ có bố trí vạch đi bộ qua đường",
+    "more": "",
+    "image": "G76"
+  },
+  {
+    "type": 6,
+    "code": "G.78",
+    "title": "Vạch xác định khoảng cách xe trên đường.",
+    "more": "Vạch 7.8 là vạch dùng để xác định khoảng cách trên đường, giúp cho lái xe biết cần phải giãn cách cự ly để đảm bảo an toàn với xe chạy phía trước. Vạch thường được sử dụng trên đường ôtô cao tốc.",
+    "image": "G78"
+  },
+  {
+    "type": 6,
+    "code": "G.92",
+    "title": "Vạch quy định vị trí dừng đỗ của phương tiện giao thông công cộng trên đường",
+    "more": "Vạch 9.2 quy định vị trí dừng xe của các phương tiện vận tải hành khách công cộng trên đường như xe buýt, xe tắc xi ...",
+    "image": "G92"
+  }
+]

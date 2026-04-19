@@ -1,0 +1,209 @@
+[
+  {
+    "license": "b",
+    "id": 0,
+    "title": "Toàn bộ 600 câu hỏi",
+    "detail": "600 câu hỏi",
+    "minId": 1,
+    "maxId": 600,
+    "questionCount": 600
+  },
+  {
+    "license": "b",
+    "id": 1,
+    "title": "Chương I. Quy định chung và quy tắc giao thông đường bộ",
+    "detail": "180 câu: từ câu 1 đến câu 180",
+    "minId": 1,
+    "maxId": 180,
+    "questionCount": 180
+  },
+  {
+    "license": "b",
+    "id": 2,
+    "title": "Chương II. Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
+    "detail": "25 câu: từ câu 181 đến câu 205",
+    "minId": 181,
+    "maxId": 205,
+    "questionCount": 25
+  },
+  {
+    "license": "b",
+    "id": 3,
+    "title": "Chương III. Kỹ thuật lái xe",
+    "detail": "58 câu: từ câu 206 đến câu 263",
+    "minId": 206,
+    "maxId": 263,
+    "questionCount": 58
+  },
+  {
+    "license": "b",
+    "id": 4,
+    "title": "Chương IV. Cấu tạo và sửa chữa",
+    "detail": "37 câu: từ câu 264 đến câu 300",
+    "minId": 264,
+    "maxId": 300,
+    "questionCount": 37
+  },
+  {
+    "license": "b",
+    "id": 5,
+    "title": "Chương V. Báo hiệu đường bộ",
+    "detail": "185 câu: từ câu 301 đến câu 485",
+    "minId": 301,
+    "maxId": 485,
+    "questionCount": 185
+  },
+  {
+    "license": "b",
+    "id": 6,
+    "title": "Chương VI. Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
+    "detail": "115 câu: từ câu 486 đến câu 600",
+    "minId": 486,
+    "maxId": 600,
+    "questionCount": 115
+  },
+  {
+    "license": "b",
+    "id": 8,
+    "title": "60 câu hỏi về xử lý tình huống mất an toàn giao thông nghiêm trọng",
+    "detail": "60 câu điểm liệt bắt buộc phải trả lời đúng.",
+    "minId": 1,
+    "maxId": 60,
+    "questionCount": 60
+  },
+  {
+    "license": "a1",
+    "id": 0,
+    "title": "Toàn bộ 250 câu hỏi Hạng A1, A",
+    "detail": "250 câu hỏi từ bộ 600 câu",
+    "minId": 1,
+    "maxId": 600,
+    "questionCount": 250
+  },
+  {
+    "license": "a1",
+    "id": 1,
+    "title": "Chương I. Quy định chung và quy tắc giao thông đường bộ",
+    "detail": "100 câu: từ câu 1 đến câu 100",
+    "minId": 1,
+    "maxId": 180,
+    "questionCount": 100
+  },
+  {
+    "license": "a1",
+    "id": 2,
+    "title": "Chương II. Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
+    "detail": "10 câu: từ câu 101 đến câu 110",
+    "minId": 181,
+    "maxId": 205,
+    "questionCount": 10
+  },
+  {
+    "license": "a1",
+    "id": 3,
+    "title": "Chương III. Kỹ thuật lái xe",
+    "detail": "15 câu: từ câu 111 đến câu 125",
+    "minId": 206,
+    "maxId": 263,
+    "questionCount": 15
+  },
+  {
+    "license": "a1",
+    "id": 5,
+    "title": "Chương V. Báo hiệu đường bộ",
+    "detail": "90 câu: từ câu 126 đến câu 215",
+    "minId": 301,
+    "maxId": 485,
+    "questionCount": 90
+  },
+  {
+    "license": "a1",
+    "id": 6,
+    "title": "Chương VI. Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
+    "detail": "35 câu: từ câu 216 đến câu 250",
+    "minId": 486,
+    "maxId": 600,
+    "questionCount": 35
+  },
+  {
+    "license": "a1",
+    "id": 8,
+    "title": "20 câu hỏi về xử lý tình huống mất an toàn giao thông nghiêm trọng",
+    "detail": "20 câu điểm liệt bắt buộc phải trả lời đúng.",
+    "minId": 1,
+    "maxId": 20,
+    "questionCount": 20
+  },
+  {
+    "license": "b1",
+    "id": 0,
+    "title": "Toàn bộ 300 câu hỏi Hạng B1",
+    "detail": "300 câu hỏi từ bộ 600 câu",
+    "minId": 1,
+    "maxId": 600,
+    "questionCount": 300
+  },
+  {
+    "license": "b1",
+    "id": 1,
+    "title": "Chương I. Quy định chung và quy tắc giao thông đường bộ",
+    "detail": "110 câu: từ câu 1 đến câu 110",
+    "minId": 1,
+    "maxId": 180,
+    "questionCount": 110
+  },
+  {
+    "license": "b1",
+    "id": 2,
+    "title": "Chương II. Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
+    "detail": "10 câu: từ câu 111 đến câu 120",
+    "minId": 181,
+    "maxId": 205,
+    "questionCount": 10
+  },
+  {
+    "license": "b1",
+    "id": 3,
+    "title": "Chương III. Kỹ thuật lái xe",
+    "detail": "15 câu: từ câu 120 đến câu 135",
+    "minId": 206,
+    "maxId": 263,
+    "questionCount": 15
+  },
+  {
+    "license": "b1",
+    "id": 4,
+    "title": "Chương IV. Cấu tạo và sửa chữa",
+    "detail": "2 câu: từ câu 136 đến câu 137",
+    "minId": 264,
+    "maxId": 300,
+    "questionCount": 2
+  },
+  {
+    "license": "b1",
+    "id": 5,
+    "title": "Chương V. Báo hiệu đường bộ",
+    "detail": "128 câu: từ câu 138 đến câu 265",
+    "minId": 301,
+    "maxId": 485,
+    "questionCount": 128
+  },
+  {
+    "license": "b1",
+    "id": 6,
+    "title": "Chương VI. Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
+    "detail": "35 câu: từ câu 266 đến câu 300",
+    "minId": 486,
+    "maxId": 600,
+    "questionCount": 35
+  },
+  {
+    "license": "b1",
+    "id": 8,
+    "title": "30 câu hỏi về xử lý tình huống mất an toàn giao thông nghiêm trọng",
+    "detail": "30 câu điểm liệt bắt buộc phải trả lời đúng.",
+    "minId": 1,
+    "maxId": 30,
+    "questionCount": 30
+  }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "BIỂN BÁO CẤM",
+        "shape": "Hình tròn",
+        "color": "Nền màu trắng và viền màu đỏ",
+        "content": "Nội dung thể hiện lệnh cấm nằm ở giữa tâm của biển có màu đen",
+        "desc": "Một số biển được thể hiện khác so với quy tắc chung với khối Biển báo “Cấm” nhưng vẫn thuộc và có ý nghĩa là cấm, thông báo… như biển cấm dừng, cấm đỗ, biển hết hạn chết tốc độ, biển STOP."
+    },
+    {
+        "id": 2,
+        "title": "BIỂN BÁO NGUY HIỂM",
+        "shape": "Hình tam giác",
+        "color": "Nền màu vàng và viền màu đỏ",
+        "content": "Nội dung thể hiện nằm ở giữa tâm của biển có màu đen",
+        "desc": "Không có ý nghĩa là “Cấm” hay hiệu lệnh bắt người tham gia giao thông, người điều khiển phương tiện tham gia giao thông phải thực hiện theo, nhưng các Biển báo nguy hiểm nhằm mục đích thông báo cho người lái xe biết trước các tính huống có thể xảy ra phía trước, có thể phía trước tiếp theo sẽ là những đường có địa hình như thế nào, giao cắt ra sao, đường hướng nào được ưu tiên cần lưu ý để người lái xe giảm tốc độ, đi đúng phần đường, giữ cự ly an toàn…"
+    },
+    {
+        "id": 3,
+        "title": "BIỂN BÁO HIỆU LỆNH",
+        "shape": "Hình tròn",
+        "color": "Nền màu xanh",
+        "content": "Nội dung thể hiện bên trong nằm chính giữa và có màu trắng",
+        "desc": "Đây là những biển bắt buộc mọi người lái xe, tham gia giao thông thì gặp đều phải tuân thủ và làm theo, thông thường là các hướng phải đi, hay hạn chế tốc độ tối thiểu… Cùng với Biển báo “Cấm” nếu người lái xe không nghiêm túc thực hiện sẽ dẫn đến hậu quả khó lường, đi không đúng luật, vi phạm giao thông và  có thể gây tai nạn…"
+    },
+    {
+        "id": 4,
+        "title": "BIỂN BÁO CHỈ DẪN",
+        "shape": "Hình chữ nhật hoặc hình vuông",
+        "color": "Nền màu xanh",
+        "content": "Nội dung thể hiện bên trong có thể là màu đen, màu trắng, màu vàng hoặc đỏ",
+        "desc": "Đứng vị trí là thứ yếu, nhằm chỉ dẫn cho lái xe biết được các địa điểm tiếp theo, thành phố đô thị hay làng mạc, những điểm mốc. lối rẽ (không bắt buộc phải tuân theo), nơi dừng xe nghỉ ngơi, trạm xăng…"
+    },
+    {
+        "id": 5,
+        "title": "BIỂN BÁO PHỤ",
+        "shape": "Hình chữ nhật hoặc hình vuông",
+        "color": "Nền màu trắng",
+        "content": "Nội dung thể hiện bên trong chủ đạo là màu đen hoặc màu đỏ",
+        "desc": "Nhằm mục đích bổ trợ cho các loại Biển báo “Cấm”, Biển báo nguy hiểm, Biển báo hiệu lệnh, Biển báo chỉ dẫn, trong các trường hợp đặc biệt, khi có biển phụ đi kèm với các loại biển trên thì người lái xe phải thực hiện theo nội dung được thể hiện trên biển phụ"
+    },
+    {
+        "id": 6,
+        "title": "VẠCH KẺ ĐƯỜNG",
+        "shape": "Đa dạng",
+        "color": "Màu trắng hoặc vàng trên mặt đường.",
+        "content": "Nội dung thể hiện đa dạng bằng các hình vẽ, các đường kẻ sọc…",
+        "desc": "Tuy không được liệt kê, định nghĩa và phân loại như các loại biển được sử dụng trong Hệ thống biển báo hiệu giao thông đường bộ Việt Nam nhưng vạch kẻ đường cũng rất quan trong, về phạm vi áp dụng, ý nghĩa là ngang với biển, chúng được dùng song song đồng hành với biển và đèn tín hiệu giao thông. Khi tham gia giao thông người lái xe chỉ nhìn biển nhìn đèn là chưa đủ, vạch kẻ đường hiện nay rất đa dạng với các hình thức là báo hiệu, hiệu lệnh tuân theo hoặc chỉ dẫn..."
+    }
+]
